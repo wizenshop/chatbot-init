@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@botonic/plugin-google-analytics": "^0.22.0"
+  }
+}
